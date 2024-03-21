@@ -5,7 +5,8 @@ World Animals
 
 ### Demo Screeshots
 
-![Wildvine Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Desktop](https://github.com/Ashok-713/Wildlife_Organization/assets/102814093/40bff1dd-6b44-4b4a-b75d-320e3c53488d)
+
 
 ### Prerequisites
 
